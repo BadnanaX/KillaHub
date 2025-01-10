@@ -1,5 +1,5 @@
 local kickMessage = [[
-If your seeing this your a fatass who is trying to bypass the key system or some nigga checking my github.
+If your seeing this your a fatass who is trying to bypass the key system.
 ]]
 
 game.Players.LocalPlayer:Kick(kickMessage)
