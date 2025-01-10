@@ -1,7 +1,5 @@
 local kickMessage = [[
-The script is currently down for maintenance.
-The owner is working on fixing it and it should be resolved in approximately 10 minutes.
-We apologize for the inconvenience.
+If your seeing this your a fatass who is trying to bypass the key system or some nigga checking my github.
 ]]
 
 game.Players.LocalPlayer:Kick(kickMessage)
